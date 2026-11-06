@@ -1,0 +1,12 @@
+{
+  "name": "claude-de-0-a-1000",
+  "owner": { "name": "Hiveflow", "url": "https://hiveflow.ai" },
+  "metadata": { "description": "Skills de la masterclass «Claude, de 0 a 1000» de John Olven." },
+  "plugins": [
+    {
+      "name": "de-0-a-1000",
+      "source": "./plugins/de-0-a-1000",
+      "description": "4 skills: cotizar, clasificar-entradas, resumen-semanal y revisar-permisos."
+    }
+  ]
+}

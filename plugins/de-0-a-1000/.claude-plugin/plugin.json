@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "de-0-a-1000",
+  "version": "1.0.0",
+  "description": "Skills de la masterclass «Claude, de 0 a 1000»: cotizar, clasificar entradas, resumen semanal y revisar permisos. Solo texto: no ejecutan código.",
+  "author": { "name": "Hiveflow", "url": "https://hiveflow.ai" },
+  "homepage": "https://github.com/hiveflowai/claude-de-0-a-1000",
+  "license": "MIT",
+  "keywords": ["skills", "negocio", "claude-md", "masterclass"]
+}
